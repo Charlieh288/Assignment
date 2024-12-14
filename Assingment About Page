@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Page</title>
+    </head>
+</html>
+
+
+<body>
+    <style>
+        body {
+            background-color: #333;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff;
+        }
+
+
+        nav {
+            display: flex;
+        }
+
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            margin-right: 10px;
+        }
+
+
+        nav a:hover {
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">Band Website</div>
+        <nav>
+           
+            <a href="Assignment Band.html">Home</a>
+            <a href="Assignment Band Page 2">About</a>
+            <a href="Assignment Band Page 3">Contact</a>
+            <a href="Assignment Band Page 4">Register</a>
+        </nav>
+    </header>
+
+
+    <style>
+        .container {
+          display: flex;
+          align-items: center;
+          height: 100vh;
+        }
+   
+        img {
+          width: 50%;
+          height: auto;
+          margin-right: 20px;
+          margin-top: 100px;
+        }
+   
+        p {
+          font-size: 18px;
+          margin-left: 20px;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="container">
+        <img src="https://github.com/alex-peterson/alex-peterson.github.io/blob/main/images/concert-crowd.jpg?raw=true" alt="Concert Crowd">
+        <p>About Text</p>
+      </div>
+    </body>
