@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <title>Contact Page</title>
+    </body>
+</html>
+
+
+<body>
+    <style>
+        body {
+            background-color: #333;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff;
+        }
+
+
+        nav {
+            display: flex;
+        }
+
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            margin-right: 10px;
+        }
+
+
+        nav a:hover {
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">Band Website</div>
+        <nav>
+           
+            <a href="Assignment Band.html">Home</a>
+            <a href="Assignment Band Page 2">About</a>
+            <a href="Assignment Band Page 3">Contact</a>
+            <a href="Assignment Band Page 4">Register</a>
+        </nav>
+    </header>
+
+
+
