@@ -50,10 +50,10 @@
         <div class="logo">Band Website</div>
         <nav>
            
-            <a href="Assignment Band.html">Home</a>
-            <a href="Assignment Band Page 2">About</a>
-            <a href="Assignment Band Page 2">Contact</a>
-            <a href="Assignment Band Page 4">Register</a>
+            <a href="Home Page">Home</a>
+            <a href="About Page">About</a>
+            <a href="Contact Page">Contact</a>
+            <a href="Register Page">Register</a>
         </nav>
     </header>
 
@@ -73,7 +73,7 @@
    
         <img src="https://freerangestock.com/sample/123678/rock-band-on-stage-.jpg" alt="Image of a stage with a band">
 
-        <a href="Assignment Band Page 4" class="register-button">Register</a>
+        <a href="Register Page" class="register-button">Register</a>
 
 </body>
 </html>
