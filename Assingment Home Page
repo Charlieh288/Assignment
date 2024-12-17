@@ -71,9 +71,10 @@
     </head>
     <body>
    
-        <img src="https://freerangestock.com/sample/123678/rock-band-on-stage-.jpg" alt="Image of a stage with a band">
+           
+      <p>Register here:</p>  <a href="Register Page" class="register-button">Register</a>
 
-        <a href="Register Page" class="register-button">Register</a>
+        <img src="https://freerangestock.com/sample/123678/rock-band-on-stage-.jpg" alt="Image of a stage with a band">
 
 </body>
 </html>
