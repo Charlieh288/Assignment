@@ -53,10 +53,10 @@
         <div class="logo">Band Website</div>
         <nav>
            
-            <a href="Home Page">Home</a>
-            <a href="About Page">About</a>
-            <a href="Contact Page">Contact</a>
-            <a href="Register Page">Register</a>
+           <a href="Index.html">Home</a>
+            <a href="About.html">About</a>
+            <a href="Contact.html">Contact</a>
+            <a href="Register.html">Register</a>
         </nav>
     </header>
 
